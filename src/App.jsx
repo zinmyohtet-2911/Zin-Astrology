@@ -1,5 +1,5 @@
 import React from "react";
-import Title from "./title.jsx";
+import Title from "./Title.jsx";
 import Question from "./Question.jsx";
 import "./App.css";
 
